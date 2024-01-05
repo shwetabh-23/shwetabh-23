@@ -5,13 +5,14 @@ Hello there! 👋 I'm Shwetabh Biswas, a passionate and curious individual who l
 # About Me
 🌐 Machine Learning Developer: Proficient in building applications with a focus on both Natural Language Processing (NLP) technologies.
 🚀 Tech Enthusiast: Excited about emerging technologies, artificial intelligence, and the limitless possibilities they bring.
-🎨 Creative Mind: Simple algorithms with powerful impacts amazes me.
+🎨 Creative Mind: Simple algorithms with powerful impacts amaze me.
 📚 Lifelong Learner: Constantly expanding my knowledge base through ongoing exploration and keeping up with industry trends.
 
 # Skills
 Languages: Python
 Databases: MySQL
 Domains of work: Natural Language Processing (NLP), Computer Vision (CV), classical ML.
+
 
 Connect With Me
 📧 Email: shwetabhbiswas2305@gmail.com  
