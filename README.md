@@ -1,33 +1,45 @@
-# Shwetabh Biswas
-## Overview
-Hello there! 👋 I'm Shwetabh Biswas, a passionate and curious individual who loves exploring the realms of technology, creativity, and problem-solving. I thrive on learning and leveraging new skills to turn ideas into reality. Whether it's coding, design, or delving into the latest tech trends, I'm always up for a challenge and eager to make a positive impact.
+# 👋 Hi, I'm Shwetabh Biswas
 
-# About Me
-🌐 Machine Learning Developer: Proficient in building applications with a focus on both Natural Language Processing (NLP) technologies.
+I'm a researcher at the Indian Institute of Science (IISc), Bangalore, currently working on **multimodal AI**, **fake news detection**, and **deepfake detection**. My work lies at the intersection of **vision-language models**, **LLMs**, and **agentic AI systems** — with a strong focus on real-world impact and deployability.
 
-🚀 Tech Enthusiast: Excited about emerging technologies, artificial intelligence, and the limitless possibilities they bring.
+---
 
-🎨 Creative Mind: Simple algorithms with powerful impacts amaze me.
+### 🔬 Current Focus
+- Multimodal Fake News Detection (WACV 2025)
+- Deepfake Detection on Fully & Partially Generated Images
+- Vision-Language Integration for ASR (Google Vaani Project)
+- Dataset curation for Indian misinformation landscape
+- Optimizing inference pipelines using vLLM and LangGraph
 
-📚 Lifelong Learner: Constantly expanding my knowledge base through ongoing exploration and keeping up with industry trends.
+---
 
-# Skills
-Languages: Python
+### 🧠 Technical Skills
+- **Languages:** Python, MySQL  
+- **ML & DL:** CV, NLP, Multimodal Learning, Classical ML  
+- **LLM Techniques:** SFT, PEFT, RAG, Agentic Workflows  
+- **Deployment:** FastAPI, Streamlit, Flask, Docker  
+- **Tools:** Git, CI/CD, Hugging Face, LangGraph  
 
-Databases: MySQL
+---
 
-Domains of work: Natural Language Processing (NLP), Computer Vision (CV), classical ML.
+### 📌 Projects & Highlights
+- 🚀 Fine-tuned **Qwen-7B** for agriculture-based VQA (KissanAI)
+- 📄 Published at **WACV 2025** for multimodal misinformation detection  
+- 🧠 Built agentic pipelines using **LangGraph**  
+- 🔎 Developed robust **deepfake detection** models  
+- 🤝 Collaborated with Google on improving ASR using VLMs  
 
+---
 
-## Connect With Me
-📧 Email: shwetabhbiswas2305@gmail.com  
+### 📚 Publications
+- **FRAUD-Net**: Multimodal Fake News Detection using Uncertainty & Domain Adaptation (WACV 2025)  
+- **Gravitational Wave Classification** using GMM and GLM (2023)
 
-💼 LinkedIn: https://www.linkedin.com/in/shwetabh-biswas/
+---
 
-Feel free to explore my repositories and reach out if you share similar interests or if there's anything you'd like to discuss. Let's connect and build something amazing together! 🚀
+### 📫 Let's Connect
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shwetabh-biswas/))  
+- [Portfolio Website]([https://your-portfolio.com/](https://shwetabh-23.github.io/))  
+- 📧 shwetabhbiswas2305@gmail.com  
 
-
-
-
-
-
+Thanks for stopping by!
